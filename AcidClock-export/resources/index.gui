@@ -26,28 +26,11 @@
     <text class="count">777</text>
     <image  class="icon" href="stat_steps_solid_24px.png" />
   </g>
-  <g id="distance">
-    <rect class="bg"/>  
+  <g id="wisc-schedule">
+    <rect class="sched"/> 
     <circle class="tgt-no"/>  
     <circle class="tgt-yes"/>  
-    <rect class="progress"/>    
-    <text class="count">777</text>
-    <image id="distance-icon" class="icon" href="stat_dist_solid_24px.png" />
-  </g>
-  <g id="elevationGain">
-    <rect class="bg"/>  
-    <circle class="tgt-no"/>  
-    <circle class="tgt-yes"/>  
-    <rect class="progress"/>    
-    <text class="count">777</text>
-    <image id="elevationGain-icon" class="icon" href="stat_floors_solid_24px.png" />
-  </g>
-  <g id="calories">
-    <rect class="bg"/>  
-    <circle class="tgt-no"/>  
-    <circle class="tgt-yes"/>  
-    <rect class="progress"/>    
-    <text class="count">777</text>
-    <image id="calories-icon" class="icon" href="stat_cals_solid_24px.png" />
+    <image id="wisciscon" class="schedicon" href="wisc.png" />
+    <text id="wisc-sched" class="sched">8/31/2018</text>
   </g>
 </svg>

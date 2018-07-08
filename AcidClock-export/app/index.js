@@ -45,10 +45,7 @@ let getProgressEl = function(prefix) {
 }
 
 let goalTypes = [
-  "steps",
-  "distance",
-  "elevationGain",
-  "calories"
+  "steps"
 ];
 
 let progressEls = [];

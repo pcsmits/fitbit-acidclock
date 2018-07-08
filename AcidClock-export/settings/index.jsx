@@ -97,27 +97,6 @@ function mySettings(props) {
       </Section>
       
       <Section
-        title="Distance color">
-        <ColorSelect
-          settingsKey="distanceColor"
-          colors={colorSet} />
-      </Section>
-       
-      <Section
-        title="Elevation color">
-        <ColorSelect
-          settingsKey="elevationGainColor"
-          colors={colorSet} />
-      </Section>
-       
-      <Section
-        title="Calories color">
-        <ColorSelect
-          settingsKey="caloriesColor"
-          colors={colorSet} />
-      </Section>
-      
-      <Section
         title="Heart color">
         <ColorSelect
           settingsKey="heartColor"
